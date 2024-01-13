@@ -89,6 +89,9 @@ Use your SSH client to connect to the master node using its public IP address an
 # ssh -i /terraform/ahosan_aws.pem ec2-user@44.201.240.124
 ```
 
+<img width="784" alt="ec2_k8s_master" src="https://github.com/MdAhosanHabib/Terraform_EC2_Kubernetes/assets/43145662/2b872e6a-2761-4759-92ae-04b1497b810f">
+
+
 ## 3.Set up Kubernetes cluster:
 ### On the master node:
 
