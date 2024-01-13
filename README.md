@@ -404,4 +404,5 @@ http://fr.poridhi.io
 
 
 Thank you from Ahosan Habib.
-Medium: 
+
+Medium: https://medium.com/@ahosanhabib.974/aws-infrastructure-with-terraform-and-kubernetes-sample-deployment-with-layer-7-lb-cf92f42db2ca
